@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <h1>☕ Starbucks Nutrition Analytics System</h1>
@@ -366,4 +365,4 @@ Advanced PostgreSQL Analytics Project demonstrating Database Design, SQL Develop
 </p>
 
 </div>
-```
+
